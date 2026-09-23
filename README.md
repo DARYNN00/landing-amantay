@@ -35,10 +35,10 @@
 ## Адаптивность (скриншоты)
 
 ### 📱 Mobile — 375px
-![Mobile view](screenshots/1.jpeg)
+![Mobile view](screenshots/1.jpg)
 
 ### 📱 Tablet — 768px
-![Tablet view](screenshots/2,jpeg)
+![Tablet view](screenshots/2,jpg)
 
 ### 💻 Desktop — 1280px
-![Desktop view](screenshots/3,jpeg)
+![Desktop view](screenshots/3,jpg)

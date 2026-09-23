@@ -1,4 +1,16 @@
-/* General styles */
+:root {
+    --bs-primary: #ff5722;
+    --bs-body-font-family: 'Poppins', sans-serif;
+    --bs-body-color: #222;
+}
+.btn-primary {
+    --bs-btn-bg: #ff5722;
+    --bs-btn-border-color: #ff5722;
+    --bs-btn-hover-bg: #e64a19;
+    --bs-btn-hover-border-color: #e64a19;
+    --bs-btn-active-bg: #e64a19;
+    --bs-btn-active-border-color: #e64a19;
+}
 * {
     box-sizing: border-box;
 }
